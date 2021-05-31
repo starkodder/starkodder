@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a Javascript an Unity developer.
 
 <!--
 **starkodder/starkodder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
