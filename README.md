@@ -1,6 +1,5 @@
 ### Hi
 I am a Javascript an Python developer.
-<a href="style.css">style</a>
 <!--
 **starkodder/starkodder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
