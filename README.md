@@ -1,5 +1,5 @@
-### Hi
-I am a Javascript an Python developer.
+### Hi!
+I am a Javascript an Python developer. Learning Rust. 
 <!--
 **starkodder/starkodder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
