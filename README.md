@@ -9,6 +9,6 @@ Here are some ideas to get you started:
 - 🤔 gRPC hmm
 - 💬 msg_icon
 - 📫 mail_icon
-- 😄 :smile:
-- ⚡ :zap: twemoji
+- 😄 twemoji
+- ⚡ "Blazingly fast, top of the line"
 
